@@ -1,0 +1,8 @@
+{
+	"skins": {},
+	"autoGenerateExmlsList": false,
+	"exmls": [
+		"resource/gamemain/game_skins/CommonDlg/Dlg_CommonMovie_Skin.exml"
+	],
+	"path": "resource/gamemain/default.thm.json"
+}

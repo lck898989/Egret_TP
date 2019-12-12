@@ -1,0 +1,21 @@
+{
+    "version": 5,
+    "files": [
+        "./font_loading.png",
+        "./dolphin.png",
+        "./dolphin_arm.png",
+        "./bg_ball.png",
+        "./main_btn_puase.png",
+        "./main_btn_play.png",
+        "./main_btn_out.png",
+        "./main_btn_finger.png"
+    ],
+    "projectName": "main_reload",
+    "options": {
+        "layoutGap": 1,
+        "extend": 0,
+        "layoutMath": "3",
+        "sizeMode": "2n",
+        "useExtension": 0
+    }
+}

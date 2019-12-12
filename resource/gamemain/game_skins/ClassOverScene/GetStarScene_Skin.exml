@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="GetStarScene_Skin" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" xmlns:tween="egret.tween.*">
+	<w:Declarations>
+	</w:Declarations>
+	<e:Group>
+		<e:Image source="star_bg_jpg" x="0" y="0" scaleX="1" scaleY="1"/>
+		<e:Image id="lightImg" source="star_light_png" x="781" y="549.51" anchorOffsetX="599" anchorOffsetY="510"/>
+		<e:Image id="starImg" source="star_png" horizontalCenter="0" verticalCenter="0"/>
+		<e:Image id="goImg" source="main_btn_out_png" x="1394.88" y="1177.88"/>
+	</e:Group>
+</e:Skin>

@@ -1,0 +1,29 @@
+{
+	"initial": [
+		"libs/modules/egret/egret.js",
+		"libs/modules/egret/egret.web.js",
+		"libs/modules/eui/eui.js",
+		"libs/modules/assetsmanager/assetsmanager.js",
+		"libs/modules/tween/tween.js",
+		"libs/modules/game/game.js",
+		"libs/modules/promise/promise.js",
+		"libs/modules/dragonBones/dragonBones.js",
+		"libs/modules/socket/socket.js",
+		"libs/htsw_framework/htsw_framework.js",
+		"libs/CoursewareModule/CoursewareModule.js"
+	],
+	"game": [
+		"bin-debug/gamemain/managers/WaitManager.js",
+		"bin-debug/Main.js",
+		"bin-debug/gamemain/commonView/CommonMovieDlg.js",
+		"bin-debug/gamemain/commonView/WaitPanel.js",
+		"bin-debug/gamemain/config/Version.js",
+		"bin-debug/gamemain/managers/CommonMovieManager.js",
+		"bin-debug/gamemain/commonView/CommonButton.js",
+		"bin-debug/gamemain/scene/ClassOverScene/GetStarScene.js",
+		"bin-debug/gamemain/utils/AssetAdapter.js",
+		"bin-debug/gamemain/utils/ThemeAdapter.js",
+		"bin-debug/test/config/testVersion.js",
+		"bin-debug/test/scene/test_Page1Scene/test_Page1Scene.js"
+	]
+}

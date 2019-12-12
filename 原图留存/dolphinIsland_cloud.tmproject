@@ -1,0 +1,18 @@
+{
+    "version": 5,
+    "files": [
+        "./dolphinIsland_1_01.png",
+        "./dolphinIsland_1_05.png",
+        "./dolphinIsland_1_06.png",
+        "./dolphinIsland_1_04.png",
+        "./dolphinIsland_1_02.png"
+    ],
+    "options": {
+        "extend": 0,
+        "layoutMath": "3",
+        "sizeMode": "2n",
+        "useExtension": 0,
+        "layoutGap": 1
+    },
+    "projectName": "dolphinIsland_cloud"
+}

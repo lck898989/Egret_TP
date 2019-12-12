@@ -1,0 +1,10 @@
+{"file":"main_preload.png","frames":{
+"font_loading_png":{"x":0,"y":300,"w":80,"h":31,"offX":0,"offY":0,"sourceW":80,"sourceH":31},
+"main_btn_finger_png":{"x":223,"y":168,"w":76,"h":97,"offX":2,"offY":3,"sourceW":80,"sourceH":102},
+"main_btn_out_png":{"x":165,"y":0,"w":155,"h":158,"offX":0,"offY":0,"sourceW":155,"sourceH":158},
+"main_btn_play_png":{"x":0,"y":0,"w":155,"h":158,"offX":1,"offY":1,"sourceW":156,"sourceH":159},
+"main_btn_puase_png":{"x":124,"y":267,"w":72,"h":75,"offX":1,"offY":0,"sourceW":74,"sourceH":75},
+"main_btn_duicuo_png":{"x":330,"y":0,"w":154,"h":158,"offX":1,"offY":0,"sourceW":155,"sourceH":158},
+"bg_ball_png":{"x":124,"y":168,"w":89,"h":89,"offX":0,"offY":0,"sourceW":89,"sourceH":89},
+"dolphin_arm_png":{"x":0,"y":341,"w":41,"h":17,"offX":55,"offY":41,"sourceW":150,"sourceH":150},
+"dolphin_png":{"x":0,"y":168,"w":114,"h":122,"offX":18,"offY":14,"sourceW":150,"sourceH":150}}}

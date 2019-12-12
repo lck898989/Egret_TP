@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="Dlg_CommonMovie_Skin" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Group>
+		<e:Rect width="1562" height="1348" x="0" y="0" scaleX="1" scaleY="1" fillAlpha="0"/>
+	</e:Group>
+</e:Skin>

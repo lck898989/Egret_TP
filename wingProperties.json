@@ -1,0 +1,19 @@
+{
+	"resourcePlugin": {
+		"configs": [
+			{
+				"configPath": "resource/gamemain/default.res.json",
+				"relativePath": "resource/"
+			},
+			{
+				"configPath": "resource/courseware/courseware.res.json",
+				"relativePath": "resource/"
+			},
+			{
+				"configPath": "resource/test/test.res.json",
+				"relativePath": "resource/"
+			}
+		]
+	},
+	"theme": "resource/default.thm.json"
+}

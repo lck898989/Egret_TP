@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="test_Page1Scene_Skin" width="1562" height="1348" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+    <e:Group id="group">
+		<e:Image id="img_bg" scaleX="1" scaleY="1" source="test_page_scene_bg1_jpg" x="0" y="0"/>
+			<e:Rect id="rect0" width="320" height="250" x="308.61" y="951.52" anchorOffsetX="160.61" anchorOffsetY="251.52" fillAlpha="0"/>
+			<e:Rect width="320" height="250" x="809.67" y="941.52" anchorOffsetX="166.67" anchorOffsetY="251.52" id="rect1" fillAlpha="0"/>
+			<e:Image id="img0" source="Moudle_big_page_scene14_json.10_10" x="1291.28" y="761.88" anchorOffsetX="54.55" anchorOffsetY="87.88"/>
+			<e:Image source="Moudle_big_page_scene14_json.10_02" x="472" y="876"/>
+			<e:Image id="base" source="Moudle_big_page_scene14_json.10_03" x="555.5" y="928.46" anchorOffsetX="267" anchorOffsetY="26.5"/>
+			<e:Image id="r1" source="Moudle_big_page_scene14_json.10_04" x="800.03" y="945.52" anchorOffsetX="121.03" anchorOffsetY="95.52"/>
+			<e:Image id="r0" source="Moudle_big_page_scene14_json.10_05" x="316" y="944" anchorOffsetX="124" anchorOffsetY="92"/>
+			<e:Image id="b0" source="Moudle_big_page_scene14_json.10_01" x="143" y="1184" anchorOffsetX="50" anchorOffsetY="50"/>
+			<e:Image source="Moudle_big_page_scene14_json.10_01" x="246" y="1184" anchorOffsetX="50" anchorOffsetY="50" id="b1"/>
+			<e:Image source="Moudle_big_page_scene14_json.10_01" x="355.5" y="1184" anchorOffsetX="50" anchorOffsetY="50" id="b2"/>
+			<e:Image source="Moudle_big_page_scene14_json.10_01" x="458.5" y="1184" anchorOffsetX="50" anchorOffsetY="50" id="b3"/>
+			<e:Image source="Moudle_big_page_scene14_json.10_01" x="573" y="1184" anchorOffsetX="50" anchorOffsetY="50" id="b4"/>
+			<e:Image source="Moudle_big_page_scene14_json.10_01" x="676" y="1184" anchorOffsetX="50" anchorOffsetY="50" id="b5"/>
+			<e:Image source="Moudle_big_page_scene14_json.10_01" x="785.5" y="1184" anchorOffsetX="50" anchorOffsetY="50" id="b6"/>
+
+    </e:Group>
+</e:Skin>

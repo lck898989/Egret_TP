@@ -1,0 +1,11 @@
+{
+	"skins": {},
+	"autoGenerateExmlsList": true,
+	"exmls": [
+		"resource/gamemain/game_skins/ClassOverScene/GetStarScene_Skin.exml",
+		"resource/gamemain/game_skins/CommonDlg/CommonButton_Skin.exml",
+		"resource/gamemain/game_skins/CommonDlg/Dlg_CommonMovie_Skin.exml",
+		"resource/test/game_skins/test_Page1Scene/test_Page1Scene_Skin.exml"
+	],
+	"path": "resource/test/test.thm.json"
+}
